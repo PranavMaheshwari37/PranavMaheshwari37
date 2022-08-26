@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranavMaheshwari37
-- 👀 I’m interested in data science(Machine learning)
-- 🌱 I’m currently learning (Deep learning and NLP)
-- 💞️ I’m looking to collaborate on machine learing(data scientist and junior data scientist) job.
+- 👀 I’m interested in software engineering role
+- 🌱 I’m currently learning (software engineering,Deep learning and NLP)
+- 💞️ I’m looking to collaborate on technical projects and get my hands dirty into it.
 - 📫 How to reach me ... Pranavmaheshwari37@gmail.com 
 
 <!---
